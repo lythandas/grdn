@@ -3,10 +3,8 @@ title: 'Curriculum Vitae'
 description: 'Resume of Lucas Saintier'
 author: 'Lucas Saintier'
 pubDate: '2023-08-26'
-image:
-  url: 'https://yt3.googleusercontent.com/ytc/AOPolaQntQOv8MbC-3P_SsqHznjUskCyEQpMupxDO-5Kpw=s900-c-k-c0x00ffffff-no-rj'
-  alt: 'Lucas Saintier's avatar'
 ---
+![image]()
 ## Lucas Saintier
 # DevOps and CloudOps @ Claranet France
 
