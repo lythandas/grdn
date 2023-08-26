@@ -4,7 +4,7 @@ description: 'Resume of Lucas Saintier'
 author: 'Lucas Saintier'
 pubDate: '2023-08-26'
 ---
-![image]()
+![image](https://raw.githubusercontent.com/lythandas/grdn/main/avatar.jpg "My avatar")
 ## Lucas Saintier
 # DevOps and CloudOps @ Claranet France
 
